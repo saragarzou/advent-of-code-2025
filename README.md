@@ -1,1 +1,2 @@
-# advent-of-code-2025
+# Advent of Code 2025
+i believe in haskell superiority 
